@@ -1,6 +1,6 @@
-### six-realms
+### 地府管理系统
 
-six-realms为前后端分离项目，前端使用Vue全家桶，组件库采用[Ant-Design-Vue](https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/)
+地府管理系统为前后端分离项目，前端使用Vue全家桶，组件库采用[Ant-Design-Vue](https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/)
 
 ### 项目文档
 
